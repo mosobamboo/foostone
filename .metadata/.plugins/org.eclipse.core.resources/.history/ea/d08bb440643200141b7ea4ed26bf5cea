@@ -1,0 +1,8 @@
+package foo;
+
+public class Role {
+
+	public IAttackStrategy weapon;
+	
+	
+}

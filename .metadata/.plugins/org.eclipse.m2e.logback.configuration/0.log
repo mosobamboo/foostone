@@ -1,0 +1,285 @@
+2014-09-02 11:58:55,066 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' F:\fstone\DI\pom.xml
+2014-09-02 11:58:56,115 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fstone:DI:0.0.1-SNAPSHOT @ F:\fstone\DI\pom.xml.
+2014-09-02 11:58:57,085 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DI/src/main/java
+2014-09-02 11:58:57,090 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DI/src/test/java
+2014-09-02 11:58:57,779 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fstone:DI:0.0.1-SNAPSHOT @ F:\fstone\DI\pom.xml.
+2014-09-02 11:58:57,856 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 2 sec
+2014-09-02 11:58:58,925 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fstone:DI:0.0.1-SNAPSHOT @ F:\fstone\DI\pom.xml.
+2014-09-02 11:58:59,061 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 11:58:59,061 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 11:58:59,064 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 11:58:59,065 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 12:01:25,024 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2014-09-02 12:01:25,026 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2014-09-02 12:01:25,028 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2014-09-02 12:01:36,030 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:01:37,237 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/1.4/maven-shade-plugin-1.4.jar
+2014-09-02 12:01:38,693 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/1.4/maven-shade-plugin-1.4.jar
+2014-09-02 12:01:56,143 [Worker-2] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project hello-world already exists
+2014-09-02 12:01:56,245 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jason.mvnbook.account:account-email:0.0.1-SNAPSHOT @ F:\github\maven\account-email\pom.xml.
+2014-09-02 12:01:56,247 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:01:56,675 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/2.5.6/spring-core-2.5.6.pom
+2014-09-02 12:01:56,676 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/2.5.6/spring-core-2.5.6.pom
+2014-09-02 12:01:56,877 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:01:57,201 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:01:57,607 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:01:58,023 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:01:58,255 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/2.5.6/spring-beans-2.5.6.pom
+2014-09-02 12:01:58,257 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/2.5.6/spring-beans-2.5.6.pom
+2014-09-02 12:01:58,467 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:01:58,698 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/2.5.6/spring-context-2.5.6.pom
+2014-09-02 12:01:58,699 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/2.5.6/spring-context-2.5.6.pom
+2014-09-02 12:01:58,909 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:01:59,691 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:01:59,951 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.pom
+2014-09-02 12:01:59,952 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.pom
+2014-09-02 12:02:00,175 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:02:00,476 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/mail/mail/1.4.1/mail-1.4.1.pom
+2014-09-02 12:02:00,477 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/mail/mail/1.4.1/mail-1.4.1.pom
+2014-09-02 12:02:00,690 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:02:01,052 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:02:01,592 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.7/junit-4.7.pom
+2014-09-02 12:02:01,594 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.7/junit-4.7.pom
+2014-09-02 12:02:01,815 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:02:02,089 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/icegreen/greenmail/1.3.1b/greenmail-1.3.1b.pom
+2014-09-02 12:02:02,094 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/icegreen/greenmail/1.3.1b/greenmail-1.3.1b.pom
+2014-09-02 12:02:02,291 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:02:02,620 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:02:03,568 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.3.1/slf4j-api-1.3.1.pom
+2014-09-02 12:02:03,570 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.3.1/slf4j-api-1.3.1.pom
+2014-09-02 12:02:03,777 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:02:04,084 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.3.1/slf4j-parent-1.3.1.pom
+2014-09-02 12:02:04,086 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.3.1/slf4j-parent-1.3.1.pom
+2014-09-02 12:02:04,363 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:02:05,750 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/2.5.6/spring-core-2.5.6.jar
+2014-09-02 12:02:05,914 [New I/O client worker #17-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/2.5.6/spring-beans-2.5.6.jar
+2014-09-02 12:02:07,236 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/2.5.6/spring-core-2.5.6.jar
+2014-09-02 12:02:07,528 [New I/O client worker #17-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/2.5.6/spring-beans-2.5.6.jar
+2014-09-02 12:02:07,568 [New I/O client worker #17-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/2.5.6/spring-context-2.5.6.jar
+2014-09-02 12:02:08,023 [New I/O client worker #17-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/mail/mail/1.4.1/mail-1.4.1.jar
+2014-09-02 12:02:08,047 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.jar
+2014-09-02 12:02:08,531 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.jar
+2014-09-02 12:02:09,537 [New I/O client worker #17-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/2.5.6/spring-context-2.5.6.jar
+2014-09-02 12:02:09,846 [New I/O client worker #17-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.3.1/slf4j-api-1.3.1.jar
+2014-09-02 12:02:09,861 [New I/O client worker #17-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.3.1/slf4j-api-1.3.1.jar
+2014-09-02 12:02:09,934 [New I/O client worker #17-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/icegreen/greenmail/1.3.1b/greenmail-1.3.1b.jar
+2014-09-02 12:02:10,001 [New I/O client worker #17-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/mail/mail/1.4.1/mail-1.4.1.jar
+2014-09-02 12:02:10,059 [New I/O client worker #17-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.7/junit-4.7.jar
+2014-09-02 12:02:10,676 [New I/O client worker #17-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/icegreen/greenmail/1.3.1b/greenmail-1.3.1b.jar
+2014-09-02 12:02:12,099 [New I/O client worker #17-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.7/junit-4.7.jar
+2014-09-02 12:02:14,435 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2014-09-02 12:02:15,512 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2014-09-02 12:02:15,730 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jason.mvnbook:hello-world:0.0.1-SNAPSHOT @ F:\github\maven\hello-world\pom.xml.
+2014-09-02 12:02:15,761 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fstone:DI:0.0.1-SNAPSHOT @ F:\fstone\DI\pom.xml.
+2014-09-02 12:02:15,838 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 12:02:16,240 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/1.4/maven-shade-plugin-1.4.pom
+2014-09-02 12:02:16,241 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/1.4/maven-shade-plugin-1.4.pom
+2014-09-02 12:02:17,114 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hello-world/src/main/java
+2014-09-02 12:02:17,115 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hello-world/src/test/java
+2014-09-02 12:02:17,190 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /account-email/src/main/java
+2014-09-02 12:02:17,190 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /account-email/src/main/resources overlaps with sources folder /account-email/src/main/resources
+2014-09-02 12:02:17,199 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /account-email/src/test/java
+2014-09-02 12:02:17,199 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /account-email/src/test/resources overlaps with sources folder /account-email/src/test/resources
+2014-09-02 12:02:17,300 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 21 sec
+2014-09-02 12:02:17,453 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jason.mvnbook.account:account-email:0.0.1-SNAPSHOT @ F:\github\maven\account-email\pom.xml.
+2014-09-02 12:02:17,590 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-09-02 12:02:17,591 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-09-02 12:02:17,811 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:17,811 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 12:02:17,812 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:17,813 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 12:02:18,015 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jason.mvnbook.account:account-email:0.0.1-SNAPSHOT @ F:\github\maven\account-email\pom.xml.
+2014-09-02 12:02:18,186 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:18,191 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-09-02 12:02:18,203 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:18,204 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-09-02 12:02:18,255 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:18,255 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\github\maven\hello-world\src\main\resources
+2014-09-02 12:02:18,256 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:18,256 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\github\maven\hello-world\src\test\resources
+2014-09-02 12:02:18,750 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jason.mvnbook.account:account-email:0.0.1-SNAPSHOT @ F:\github\maven\account-email\pom.xml.
+2014-09-02 12:02:18,861 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jason.mvnbook:hello-world:0.0.1-SNAPSHOT @ F:\github\maven\hello-world\pom.xml.
+2014-09-02 12:02:19,326 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:19,328 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-09-02 12:02:19,330 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:19,330 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-09-02 12:02:19,342 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:19,342 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\github\maven\hello-world\src\main\resources
+2014-09-02 12:02:19,344 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:19,344 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\github\maven\hello-world\src\test\resources
+2014-09-02 12:02:31,150 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:31,150 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 12:02:31,151 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:31,152 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 12:02:31,164 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:31,165 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-09-02 12:02:31,168 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:31,168 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-09-02 12:02:31,178 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:31,178 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\github\maven\hello-world\src\main\resources
+2014-09-02 12:02:31,179 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:02:31,180 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\github\maven\hello-world\src\test\resources
+2014-09-02 12:06:25,156 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fstone:DI:0.0.1-SNAPSHOT @ F:\fstone\DI\pom.xml.
+2014-09-02 12:06:25,380 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:06:25,380 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 12:06:25,382 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:06:25,382 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 12:07:55,103 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:07:55,103 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 12:07:55,105 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:07:55,105 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 12:08:03,563 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:08:03,566 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-09-02 12:08:03,569 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 12:08:03,569 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:10:38,261 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 13:10:38,262 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:10:38,265 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 13:10:38,265 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:12:19,714 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fstone:DI:0.0.1-SNAPSHOT @ F:\fstone\DI\pom.xml.
+2014-09-02 13:12:19,937 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 13:12:19,937 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:12:19,939 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 13:12:19,939 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:12:29,932 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fstone:DI:0.0.1-SNAPSHOT @ F:\fstone\DI\pom.xml.
+2014-09-02 13:12:30,214 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 13:12:30,215 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:12:30,216 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 13:12:30,216 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:12:47,235 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 13:12:47,235 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:12:47,239 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-02 13:12:47,240 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:27:14,385 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 13:27:14,868 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-profiles/maven-metadata.xml
+2014-09-02 13:27:14,869 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-profiles/maven-metadata.xml
+2014-09-02 13:27:15,071 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 13:27:15,422 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-profiles/1.0-alpha-4/maven-archetype-profiles-1.0-alpha-4.jar
+2014-09-02 13:27:15,423 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-profiles/1.0-alpha-4/maven-archetype-profiles-1.0-alpha-4.jar
+2014-09-02 13:27:58,859 [Worker-61] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 48
+2014-09-02 13:27:59,462 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-profiles/1.0-alpha-4/maven-archetype-profiles-1.0-alpha-4.pom
+2014-09-02 13:27:59,465 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-profiles/1.0-alpha-4/maven-archetype-profiles-1.0-alpha-4.pom
+2014-09-02 13:27:59,724 [pool-24-thread-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/Users/jiazhong/.m2/repository/org/apache/maven/archetypes/maven-archetype-profiles/1.0-alpha-4/maven-archetype-profiles-1.0-alpha-4.jar
+2014-09-02 13:27:59,744 [Worker-61] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' F:\fstone\DI\pom.xml
+2014-09-02 13:27:59,844 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fstone:DI:0.0.1-SNAPSHOT @ F:\fstone\DI\pom.xml.
+2014-09-02 13:28:00,022 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DI/src/main/java
+2014-09-02 13:28:00,022 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DI/src/test/java
+2014-09-02 13:28:00,106 [Worker-61] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2014-09-02 13:28:00,521 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fstone:DI:0.0.1-SNAPSHOT @ F:\fstone\DI\pom.xml.
+2014-09-02 13:28:00,745 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:28:00,746 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:28:00,748 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:28:00,749 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:28:01,271 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fstone:DI:0.0.1-SNAPSHOT @ F:\fstone\DI\pom.xml.
+2014-09-02 13:28:01,835 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:28:01,837 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:28:01,839 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:28:01,841 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:29:09,692 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:29:09,693 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:29:09,695 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:29:09,696 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:29:34,947 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:29:34,948 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:29:34,950 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:29:34,951 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:31:27,388 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:31:27,389 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:31:27,391 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:31:27,391 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:32:26,193 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:32:26,195 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:32:26,197 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:32:26,198 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:32:53,063 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:32:53,065 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:32:53,066 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:32:53,067 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:36:30,457 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:36:30,459 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:36:30,462 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:36:30,462 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:36:34,480 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:36:34,481 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:36:34,482 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:36:34,483 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:36:41,756 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:36:41,757 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:36:41,758 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:36:41,759 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:37:54,404 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:37:54,406 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:37:54,408 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:37:54,409 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:38:02,291 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:38:02,292 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:38:02,294 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:38:02,294 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:38:42,275 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:38:42,276 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:38:42,279 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:38:42,279 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:39:30,436 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:39:30,437 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:39:30,438 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:39:30,439 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:39:46,937 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:39:46,939 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:39:46,940 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:39:46,941 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:40:29,638 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:40:29,639 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:40:29,641 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:40:29,642 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:42:04,837 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:42:04,838 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:42:04,840 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:42:04,842 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:42:07,431 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:42:07,431 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:42:07,433 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:42:07,434 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:42:26,035 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:42:26,037 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:42:26,038 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:42:26,039 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:42:47,423 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:42:47,424 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:42:47,425 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:42:47,426 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:42:58,117 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:42:58,119 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:42:58,120 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:42:58,121 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:43:58,780 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:43:58,781 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:43:58,782 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:43:58,783 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:44:36,960 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:44:36,962 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:44:36,964 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:44:36,965 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:44:49,858 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:44:49,858 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:44:49,860 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:44:49,861 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:45:23,016 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:45:23,017 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:45:23,019 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:45:23,020 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:46:27,164 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:46:27,165 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:46:27,167 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:46:27,168 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:47:13,628 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:47:13,630 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:47:13,631 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:47:13,632 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:47:35,335 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:47:35,337 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:47:35,339 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:47:35,340 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources
+2014-09-02 13:48:08,530 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:48:08,531 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\main\resources
+2014-09-02 13:48:08,533 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-02 13:48:08,534 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\fstone\DI\src\test\resources

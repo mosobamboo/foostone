@@ -1,0 +1,10 @@
+package foo;
+
+public class MagicSword implements IAttackStrategy {
+
+	public void AttackTarget(Monster monster) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
