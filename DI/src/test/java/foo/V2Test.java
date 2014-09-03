@@ -1,9 +1,12 @@
 package foo;
 
-import v1.Monster;
-import v1.Role;
+import v2.IronSword;
+import v2.MagicSword;
+import v2.Monster;
+import v2.Role;
+import v2.WoodSword;
 
-public class V1Test {
+public class V2Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -17,16 +20,16 @@ public class V1Test {
 		Role role = new Role();  
 
 		//Ä¾½£¹¥»÷  
-		role.weapon = "wood";  
+		role.weapon = new WoodSword();  
 		role.attack(monster1);  
 
 		//Ìú½£¹¥»÷  
-		role.weapon = "iron";  
+		role.weapon = new IronSword();  
 		role.attack(monster2);  
 		role.attack(monster3);  
 
 		//Ä§½£¹¥»÷  
-		role.weapon = "magic";  
+		role.weapon = new MagicSword();  
 		role.attack(monster3);  
 		role.attack(monster4);  
 		role.attack(monster4);  
