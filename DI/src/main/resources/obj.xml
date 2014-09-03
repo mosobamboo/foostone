@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <window>v3.MacWindow</window>
+    <button>v3.MacButton</button>
+    <textBox>v3.MacTextBox</textBox>
+</config>
